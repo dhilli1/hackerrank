@@ -10,6 +10,7 @@
     print(a+b)
     print(a-b)
     print(a*b)
+
 3) https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true
 ---if __name__ == '__main__':
     a = int(input())
@@ -17,6 +18,7 @@
     
     print(a//b)
     print(a/b)
+
 4) https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true
 ---n = int(input())
 
@@ -29,3 +31,5 @@ else:
         print("Weird")
     else:
         print("Not Weird")
+
+5) 
